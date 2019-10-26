@@ -1,5 +1,6 @@
 # ATrans
 Trans chars.
+<font face="Consolas">
 ---
 ## ***UIC TECH*** 
 ---
@@ -31,3 +32,4 @@ U   U    I    C   C        D   D  E       V V   E      D   D
  UUU   IIIII   CCC         DDDD   EEEEE    V    EEEEE  DDDD
  
  //font Consolas is recommanded.
+</font>
